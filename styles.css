@@ -1,0 +1,44 @@
+.top {
+    font-family: Arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.test_1 {
+    width: 100px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+.test_2 {
+    font-family: Arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.test_3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.test_4 {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.test_5 {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
